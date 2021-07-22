@@ -1,0 +1,23 @@
+{
+  "name": "test-jokes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "@awsomedevs/jokes": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedeviotti/test-jokes.git"
+  },
+  "author": "fedeviotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedeviotti/test-jokes/issues"
+  },
+  "homepage": "https://github.com/fedeviotti/test-jokes#readme"
+}
